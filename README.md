@@ -64,4 +64,4 @@ The example pipeline contains 5 blocks:
    * Runs browser tests with python selenium webdriver
 * Run Security Tests
    * Runs security checklist with Django default deployment checklist
-   
+      
